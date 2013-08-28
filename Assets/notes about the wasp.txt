@@ -1,0 +1,17 @@
+The cooridnates work in the fourth quadrant, that is, that y increase lower into the image.
+
+Head polygon 1- 
+	   upper left vertex- xpixel=1, ypixel=36
+	   lower left vertex- xpixel=1, ypixel=70
+	   lower right vertex- xpixel=29 ypixel=70
+	   upper right vertex- xpixel=29 ypixel=36
+Body Polygon 2- 
+	   upper left vertex- xpixel= 27, ypixel=27
+	   lower left vertex-xpixel=27, ypixel=65
+	   lower right vertex- xpixel=105, ypixel=65
+	   upper right vertex- xpixel-105, ypixel-27
+wing polygon 3-
+	   upper left vertex- xpixel=40, ypolygon=0
+	   lower left vertex- xpixel=40, ypixel=35
+	   lower right vertex- xpixel=89, ypixel=35
+	   upper right vertex- xpixel=89, ypixel=0

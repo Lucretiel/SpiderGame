@@ -1,0 +1,6 @@
+Frog 1: 1850
+frog 2: 3250
+Frog 3: 3915
+Frog 4: 4455
+Frog 5: 4788
+Frog 6: 5135

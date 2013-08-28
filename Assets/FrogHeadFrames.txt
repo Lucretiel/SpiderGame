@@ -1,0 +1,4 @@
+Dudes/Enemies/Frog/Head1.png
+Dudes/Enemies/Frog/Head2.png
+Dudes/Enemies/Frog/Head3.png
+Dudes/Enemies/Frog/Head4.png

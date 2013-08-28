@@ -1,0 +1,3 @@
+Dudes/Spider/spiderLine.png
+Dudes/Spider/spiderLine2.png
+Dudes/Spider/spiderLine3.png

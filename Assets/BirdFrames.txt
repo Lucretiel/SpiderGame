@@ -1,0 +1,2 @@
+Dudes/Enemies/Bird/bird.png
+Dudes/Enemies/Bird/bird2-best.png

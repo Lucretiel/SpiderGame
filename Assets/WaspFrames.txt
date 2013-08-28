@@ -1,0 +1,4 @@
+Dudes/Enemies/Wasp/Wasp.png
+Dudes/Enemies/Wasp/Wasp2.png
+Dudes/Enemies/Wasp/WaspAttack.png
+Dudes/Enemies/Wasp/WaspWebbed.png

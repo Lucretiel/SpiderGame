@@ -1,0 +1,2 @@
+Dudes/Enemies/Human/shadow.png
+Dudes/Enemies/Human/hand.png
